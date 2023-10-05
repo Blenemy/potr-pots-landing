@@ -32,5 +32,3 @@ Potr Pots is an eco-friendly web project showcasing a unique kind of plant pot. 
 
 - **Styles:** Styled using SCSS (referenced as `main.scss`).
 - **Scripts:** The site uses custom scripts (`main.js` and `dynamicAdapt.js`).
-
-## Contact
