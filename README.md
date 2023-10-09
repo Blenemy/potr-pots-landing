@@ -1,26 +1,24 @@
 # Base layout template with Gulp, SCSS and Stylelint
 
-# Potr Pots
+# POTR POTS Landing Page
 
-An eco-friendly, self-watering, origami plant pot website.
+POTR POTS is a streamlined single-page landing crafted with a keen attention to detail. It serves as a gateway to showcase the elegant simplicity of POTR POTS offerings.
 
-## Overview
+# Key Technologies & Features
 
-Potr Pots is an eco-friendly web project showcasing a unique kind of plant pot. These pots are not only good for the environment but are also very functional and aesthetically pleasing.
+HTML: Semantically structured and cleanly laid out.
+SCSS with BEM Methodology: Styles are written using the SCSS preprocessor, with the BEM naming convention to ensure readability and maintainability.
+JavaScript: The page is enhanced with vanilla JavaScript functionalities:
+Slider: A custom-built slider for displaying content in a carousel.
+Pop-ups: Interactive pop-ups that enhance user engagement.
+Form Validation: Real-time form validation ensures data integrity before submission.
+Menu Toggling: Dynamic menu behavior based on URL hash changes.
+Dynamic Adaptive Display: Leveraging an open-source library, the landing page adjusts seamlessly across various displays.
+Intersection Observer: This feature enables on-scroll animations, enhancing the visual experience as users navigate the site.
 
-## Features
+# Viewing Recommendations
 
-- **Eco-Friendly:** All materials used are 100% recycled.
-- **Self-Watering:** Plants self-regulate their water intake using wicking technology.
-- **Easy Assembly:** POTR Pots are simple and satisfying to assemble.
-- **Flat-Pack Postage:** They arrive flat packed for convenience.
-
-## Sections
-
-1. **Header:** Contains site navigation and a beautiful presentation of the POTR Pots product.
-2. **Menu:** Additional navigation and quick links.
-3. **Main Content:** Includes sections about the pot, its features, the team behind it, materials used, size recommendations, and a checkout section.
-4. **Footer:** Contains contact details and social media links.
+The landing page is fully responsive and well-adapted for all types of devices, ensuring a seamless browsing experience.
 
 ## IntersectionObserver Module
 
