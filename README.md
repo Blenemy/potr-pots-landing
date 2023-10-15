@@ -6,8 +6,6 @@ POTR POTS is a streamlined single-page landing crafted with a keen attention to 
 
 # Key Technologies & Features
 
-## Key Technologies & Features
-
 - **JavaScript (ES6)**
 - **HTML**: Semantically structured and cleanly laid out.
 - **SCSS with BEM Methodology**: Styles are written using the SCSS preprocessor, with the BEM naming convention to ensure readability and maintainability.
